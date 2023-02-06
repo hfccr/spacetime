@@ -1,0 +1,6 @@
+[submodule "spacetime-frontend"]
+	path = spacetime-frontend
+	url = https://github.com/hfccr/spacetime-frontend
+[submodule "spacetime-contracts"]
+	path = spacetime-contracts
+	url = https://github.com/hfccr/spacetime-contracts
